@@ -1,0 +1,378 @@
+{
+    "routeNumber": "D91798M",
+    "routeDate": "2024-07-30T07:00:00Z",
+    "routeSheetDTO": {
+      "totalPackages": 5,
+      "totalStops": 5,
+      "totalDeliveryStops": 5,
+      "totalPickupStops": 0,
+      "stopsDTO": [
+        {
+          "sequenceNumber": 1,
+          "stopNumber": 1,
+          "id": "68effa7b42bfb40d05d8660bd2b9e79a1532a9d3aa9840eeaead91ba1c02f50b",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "TY D WALTON",
+          "locationString": "4119 CROOKED STICK LN,CORONA,CA,92883",
+          "latitude": 33.8167793,
+          "longitude": -117.5274533,
+          "address": {
+            "address1": "4119 CROOKED STICK LN",
+            "address2": "",
+            "addressType": "Residence",
+            "city": "CORONA",
+            "state": "CA",
+            "zipCode": "92883"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13118728,
+                  "controlNumber": 13118728,
+                  "trackingNumber": "3078403021409",
+                  "accountNumber": 30784,
+                  "shipperCompany": "SHIELD HEALTHCARE",
+                  "deliveryCompany": "TY D WALTON",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 6,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S01162A",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.8167793,
+                  "longitude": -117.5274533,
+                  "addressValidated": true,
+                  "locationString": "4119 CROOKED STICK LN,CORONA,CA,92883",
+                  "type": "D",
+                  "sortId": 1,
+                  "stopRefId": "68effa7b42bfb40d05d8660bd2b9e79a1532a9d3aa9840eeaead91ba1c02f50b",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 2,
+          "stopNumber": 2,
+          "id": "e698415877750b5c0476a34de240b29cb1e752991e079c579a34b220e0509e9f",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "TOMAS QUINTANA",
+          "companyName": "STARR SIGN DESIGN",
+          "locationString": "1485 POMONA RD.,UNIT A,CORONA,CA,92882",
+          "latitude": 33.883727,
+          "longitude": -117.5929265,
+          "address": {
+            "address1": "1485 POMONA RD.",
+            "address2": "UNIT A",
+            "addressType": "Business",
+            "city": "CORONA",
+            "state": "CA",
+            "zipCode": "92882"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13109918,
+                  "controlNumber": 13109918,
+                  "trackingNumber": "79102072624317924253",
+                  "accountNumber": 79102,
+                  "shipperCompany": "PLATINUM SIGN SUPPLY LLC.",
+                  "deliveryCompany": "STARR SIGN DESIGN",
+                  "contact": "TOMAS QUINTANA",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 36,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S01162B",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.883727,
+                  "longitude": -117.5929265,
+                  "addressValidated": true,
+                  "locationString": "1485 POMONA RD.,UNIT A,CORONA,CA,92882",
+                  "type": "D",
+                  "sortId": 2,
+                  "stopRefId": "e698415877750b5c0476a34de240b29cb1e752991e079c579a34b220e0509e9f",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 3,
+          "stopNumber": 3,
+          "id": "05e14dc06f403769d09a96e5bc069ec302334d0e095e406351ef4594bddf45f9",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "Terrance Rucker",
+          "companyName": "Terrance Rucker",
+          "locationString": "1483 Black Diamond Dr,Beaumont,CA,92223",
+          "latitude": 33.945265,
+          "longitude": -116.9759,
+          "address": {
+            "address1": "1483 Black Diamond Dr",
+            "address2": "",
+            "addressType": "Residence",
+            "city": "Beaumont",
+            "state": "CA",
+            "zipCode": "92223"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13164018,
+                  "controlNumber": 13164018,
+                  "trackingNumber": "SO577504-SH-01118340",
+                  "accountNumber": 100818,
+                  "shipperCompany": "ButcherBox",
+                  "deliveryCompany": "Terrance Rucker",
+                  "contact": "Terrance Rucker",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 24,
+                  "packageType": "",
+                  "specialInstructions": "[]",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S92220D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.945265,
+                  "longitude": -116.9759,
+                  "addressValidated": true,
+                  "locationString": "1483 Black Diamond Dr,Beaumont,CA,92223",
+                  "type": "D",
+                  "sortId": 3,
+                  "stopRefId": "05e14dc06f403769d09a96e5bc069ec302334d0e095e406351ef4594bddf45f9",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 4,
+          "stopNumber": 4,
+          "id": "60b89764edef9778f5af77d10f873b76eb1fc14a5d3169ffe8b0450fafe7ec47",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "Apria Healthcare",
+          "locationString": "1080 Mt Vernon Ave Suite 103,Riverside,CA,92507",
+          "latitude": 34.0030059,
+          "longitude": -117.3118275,
+          "address": {
+            "address1": "1080 Mt Vernon Ave Suite 103",
+            "address2": "",
+            "addressType": "Business",
+            "city": "Riverside",
+            "state": "CA",
+            "zipCode": "92507"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13032387,
+                  "controlNumber": 13032387,
+                  "trackingNumber": "1116040000969618",
+                  "accountNumber": 111604,
+                  "shipperCompany": "GLS",
+                  "deliveryCompany": "Apria Healthcare",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 1,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S92507D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 34.0030059,
+                  "longitude": -117.3118275,
+                  "addressValidated": true,
+                  "locationString": "1080 Mt Vernon Ave Suite 103,Riverside,CA,92507",
+                  "type": "D",
+                  "sortId": 4,
+                  "stopRefId": "60b89764edef9778f5af77d10f873b76eb1fc14a5d3169ffe8b0450fafe7ec47",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 5,
+          "stopNumber": 5,
+          "id": "e67bc3da17dc1ffd5f2e4a8cb1317cd93d61014fd072f1e35f44878aa8e85ed6",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "RIALTO ASSISTED LIVING",
+          "locationString": "1441 SOUTH RIVERSIDE AVE,Rialto,CA,92376",
+          "latitude": 34.109511,
+          "longitude": -117.37617,
+          "address": {
+            "address1": "1441 SOUTH RIVERSIDE AVE",
+            "address2": "",
+            "addressType": "Unknown",
+            "city": "Rialto",
+            "state": "CA",
+            "zipCode": "92376"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13078164,
+                  "controlNumber": 13078164,
+                  "trackingNumber": "SCH148218",
+                  "accountNumber": 81259,
+                  "shipperCompany": "Schraders' Medical Supply",
+                  "deliveryCompany": "RIALTO ASSISTED LIVING",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 1,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S92376D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 34.109511,
+                  "longitude": -117.37617,
+                  "addressValidated": true,
+                  "locationString": "1441 SOUTH RIVERSIDE AVE,Rialto,CA,92376",
+                  "type": "D",
+                  "sortId": 5,
+                  "stopRefId": "e67bc3da17dc1ffd5f2e4a8cb1317cd93d61014fd072f1e35f44878aa8e85ed6",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        }
+      ],
+      "lastRouteState": 0,
+      "unRoutedPackages": {
+        "package": []
+      },
+      "groupsAndSequences": []
+    },
+    "depoDetailsDTO": {
+      "depotId": 14,
+      "depotName": "ONT",
+      "routeNumber": "D91798M",
+      "address": {
+        "address1": "1600 Champagne Ave",
+        "address2": "",
+        "city": "ONTARIO                  ",
+        "state": "CA",
+        "zipCode": "91761",
+        "latitude": 34.046164,
+        "longitude": -117.530025
+      }
+    },
+    "executionTime": {
+      "requestDateTime": "2024-07-30T12:00:29.8901539Z",
+      "responseDateTime": "2024-07-30T12:00:30.5122178Z"
+    },
+    "rttEnabled": false,
+    "isBettermileEnabled": false,
+    "error": null
+  }

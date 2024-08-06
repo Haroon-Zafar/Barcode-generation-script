@@ -1,0 +1,378 @@
+{
+    "routeNumber": "D00014A",
+    "routeDate": "2024-07-30T07:00:00Z",
+    "routeSheetDTO": {
+      "totalPackages": 5,
+      "totalStops": 5,
+      "totalDeliveryStops": 5,
+      "totalPickupStops": 0,
+      "stopsDTO": [
+        {
+          "sequenceNumber": 1,
+          "stopNumber": 1,
+          "id": "0945b4ed81894c233d98c71249a27f5a121a0a2a724a436e86af8dfd6266da72",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "JASON RUTHERFORD",
+          "locationString": "23722 GOETZ DR,QUAIL VALLEY,CA,92587",
+          "latitude": 33.70681,
+          "longitude": -117.2453,
+          "address": {
+            "address1": "23722 GOETZ DR",
+            "address2": "",
+            "addressType": "Residence",
+            "city": "QUAIL VALLEY",
+            "state": "CA",
+            "zipCode": "92587"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13120464,
+                  "controlNumber": 13120464,
+                  "trackingNumber": "3078403027781",
+                  "accountNumber": 30784,
+                  "shipperCompany": "SHIELD HEALTHCARE",
+                  "deliveryCompany": "JASON RUTHERFORD",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 2,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S01162D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.70681,
+                  "longitude": -117.2453,
+                  "addressValidated": true,
+                  "locationString": "23722 GOETZ DR,QUAIL VALLEY,CA,92587",
+                  "type": "D",
+                  "sortId": 1,
+                  "stopRefId": "0945b4ed81894c233d98c71249a27f5a121a0a2a724a436e86af8dfd6266da72",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 2,
+          "stopNumber": 2,
+          "id": "e9c532c8ac5b68c21811c6c55cd6698c4f776fc59440a89c97957a4eed4813e0",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "H&M",
+          "locationString": "4413 Patterson Avenue,Perris,CA,92571",
+          "latitude": 33.8638,
+          "longitude": -117.2526,
+          "address": {
+            "address1": "4413 Patterson Avenue",
+            "address2": "",
+            "addressType": "Business",
+            "city": "Perris",
+            "state": "CA",
+            "zipCode": "92571"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13107516,
+                  "controlNumber": 13107516,
+                  "trackingNumber": "24071720571420963837",
+                  "accountNumber": 108432,
+                  "shipperCompany": "GLS",
+                  "deliveryCompany": "H&M",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 1,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S01162F",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.8638,
+                  "longitude": -117.2526,
+                  "addressValidated": true,
+                  "locationString": "4413 Patterson Avenue,Perris,CA,92571",
+                  "type": "D",
+                  "sortId": 2,
+                  "stopRefId": "e9c532c8ac5b68c21811c6c55cd6698c4f776fc59440a89c97957a4eed4813e0",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 3,
+          "stopNumber": 3,
+          "id": "ef1d804512f3a0cc268e36cb1fd552207aa00ae39bc5f915f62971f68082d3a7",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "John Warlikowski",
+          "companyName": "John Warlikowski",
+          "locationString": "3538 Linwood Pl,Riverside,CA,92506",
+          "latitude": 33.9632961,
+          "longitude": -117.3853421,
+          "address": {
+            "address1": "3538 Linwood Pl",
+            "address2": "",
+            "addressType": "Residence",
+            "city": "Riverside",
+            "state": "CA",
+            "zipCode": "92506"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13048307,
+                  "controlNumber": 13048307,
+                  "trackingNumber": "4667629-359",
+                  "accountNumber": 112083,
+                  "shipperCompany": "Wine Shipping",
+                  "deliveryCompany": "John Warlikowski",
+                  "contact": "John Warlikowski",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 21,
+                  "packageType": "",
+                  "specialInstructions": "Please ship GLS not ups or FedEx \\r\\nThank you",
+                  "codValue": 0,
+                  "signatureCode": 2,
+                  "lastScanRoute": "S92506D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 33.9632961,
+                  "longitude": -117.3853421,
+                  "addressValidated": true,
+                  "locationString": "3538 Linwood Pl,Riverside,CA,92506",
+                  "type": "D",
+                  "sortId": 3,
+                  "stopRefId": "ef1d804512f3a0cc268e36cb1fd552207aa00ae39bc5f915f62971f68082d3a7",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 4,
+          "stopNumber": 4,
+          "id": "e8842568e61357136eef5041085e0c02918cb46b4bbaf4568f44b1b2263de46c",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "MARTINA MOLINA",
+          "locationString": "1675 INDUSTRIAL PARK AVE,LEAVE AT OFFICE,REDLANDS,CA,92374",
+          "latitude": 34.0653009,
+          "longitude": -117.2121834,
+          "address": {
+            "address1": "1675 INDUSTRIAL PARK AVE",
+            "address2": "LEAVE AT OFFICE",
+            "addressType": "Residence",
+            "city": "REDLANDS",
+            "state": "CA",
+            "zipCode": "92374"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13123374,
+                  "controlNumber": 13123374,
+                  "trackingNumber": "3078403019938",
+                  "accountNumber": 30784,
+                  "shipperCompany": "SHIELD HEALTHCARE",
+                  "deliveryCompany": "MARTINA MOLINA",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 9,
+                  "packageType": "",
+                  "specialInstructions": "LEAVE AT OFFICE",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S92374D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 34.0653009,
+                  "longitude": -117.2121834,
+                  "addressValidated": true,
+                  "locationString": "1675 INDUSTRIAL PARK AVE,LEAVE AT OFFICE,REDLANDS,CA,92374",
+                  "type": "D",
+                  "sortId": 4,
+                  "stopRefId": "e8842568e61357136eef5041085e0c02918cb46b4bbaf4568f44b1b2263de46c",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        },
+        {
+          "sequenceNumber": 5,
+          "stopNumber": 5,
+          "id": "e7282d2ed362b4d0540d3bb13bb93c50062b4774d2f590fa899e6ffb7daf4c7e",
+          "totalPackages": 1,
+          "type": "D",
+          "serviceType": "CPS",
+          "consigneeName": "",
+          "companyName": "DEREK DEPAL",
+          "locationString": "15979 Oak Ct,Victorville,CA,92395",
+          "latitude": 34.4928311,
+          "longitude": -117.3151909,
+          "address": {
+            "address1": "15979 Oak Ct",
+            "address2": "",
+            "addressType": "Residence",
+            "city": "Victorville",
+            "state": "CA",
+            "zipCode": "92395"
+          },
+          "addressValidated": true,
+          "details": {
+            "deliveryDetails": {
+              "packageCount": 1,
+              "packageDTO": [
+                {
+                  "id": 13107603,
+                  "controlNumber": 13107603,
+                  "trackingNumber": "1084807958005253",
+                  "accountNumber": 108480,
+                  "shipperCompany": "GNC",
+                  "deliveryCompany": "DEREK DEPAL",
+                  "contact": "",
+                  "serviceType": "CPS",
+                  "deliverBy": "12:00 AM",
+                  "deliveryAppointmentFrom": null,
+                  "deliveryAppointmentTo": null,
+                  "packageWeight": 3,
+                  "packageType": "",
+                  "specialInstructions": "",
+                  "codValue": 0,
+                  "signatureCode": 0,
+                  "lastScanRoute": "S92395D",
+                  "lastScanTime": null,
+                  "scanStatus": null,
+                  "lastScanRegion": 14,
+                  "latitude": 34.4928311,
+                  "longitude": -117.3151909,
+                  "addressValidated": true,
+                  "locationString": "15979 Oak Ct,Victorville,CA,92395",
+                  "type": "D",
+                  "sortId": 5,
+                  "stopRefId": "e7282d2ed362b4d0540d3bb13bb93c50062b4774d2f590fa899e6ffb7daf4c7e",
+                  "isCompleted": false,
+                  "deliveryCompletionDateTime": null,
+                  "isAttempted": false
+                }
+              ]
+            },
+            "pickupDetails": null
+          },
+          "deliverBy": "12:00 AM",
+          "puWindow": null,
+          "isCompleted": false,
+          "isAttempted": false,
+          "isConfirmed": false,
+          "eta": null
+        }
+      ],
+      "lastRouteState": 0,
+      "unRoutedPackages": {
+        "package": []
+      },
+      "groupsAndSequences": []
+    },
+    "depoDetailsDTO": {
+      "depotId": 14,
+      "depotName": "ONT",
+      "routeNumber": "D00014A",
+      "address": {
+        "address1": "1600 Champagne Ave",
+        "address2": "",
+        "city": "ONTARIO                  ",
+        "state": "CA",
+        "zipCode": "91761",
+        "latitude": 34.046164,
+        "longitude": -117.530025
+      }
+    },
+    "executionTime": {
+      "requestDateTime": "2024-07-30T09:33:24.6207924Z",
+      "responseDateTime": "2024-07-30T09:33:25.1391359Z"
+    },
+    "rttEnabled": false,
+    "isBettermileEnabled": false,
+    "error": null
+  }
