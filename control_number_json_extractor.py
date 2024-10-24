@@ -1,6 +1,6 @@
 import json
 
-def json_extractor(json_file=""):
+def control_number_json_extractor_method(json_file=""):
     # Parse the JSON data
     try:
         # Parse the JSON data
